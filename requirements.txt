@@ -1,11 +1,4 @@
-Main library for the bot
 python-telegram-bot
-
-For making HTTP requests (e.g., to AI API)
 requests
-
-Web framework to handle webhooks
 Flask
-
-PostgreSQL database adapter
 psycopg2-binary
