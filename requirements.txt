@@ -1,4 +1,3 @@
 python-telegram-bot
-requests
 Flask
-psycopg2-binary
+google-generativeai
